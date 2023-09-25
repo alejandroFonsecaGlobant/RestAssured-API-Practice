@@ -1,0 +1,714 @@
+2023-09-25 10:19:40.881 INFO [api.stepDefinitions.Hooks:17] - *****************************************************************************************
+2023-09-25 10:19:40.910 INFO [api.stepDefinitions.Hooks:18] - 	Scenario: View all the clients
+2023-09-25 10:19:40.911 INFO [api.stepDefinitions.Hooks:19] - *****************************************************************************************
+2023-09-25 10:19:44.297 INFO [api.stepDefinitions.ClientSteps:30] - [
+    {
+        "name": "Berneice",
+        "lastName": "Hintz",
+        "country": "Barbados",
+        "city": "Yorba Linda",
+        "email": "Donato43@hotmail.com",
+        "phone": "1-425-705-0487 x77466",
+        "id": "1"
+    },
+    {
+        "name": "Crystal",
+        "lastName": "Mraz",
+        "country": "Cocos (Keeling) Islands",
+        "city": "Cedar Rapids",
+        "email": "Leann84@gmail.com",
+        "phone": "417-928-1106 x973",
+        "id": "2"
+    },
+    {
+        "name": "Arlene",
+        "lastName": "Reynolds",
+        "country": "Guatemala",
+        "city": "Lee's Summit",
+        "email": "Adaline_Murray26@gmail.com",
+        "phone": "(758) 351-6898",
+        "id": "3"
+    },
+    {
+        "name": "Maiya",
+        "lastName": "Schmitt",
+        "country": "Syrian Arab Republic",
+        "city": "Pensacola",
+        "email": "Otilia2@yahoo.com",
+        "phone": "(271) 591-8686",
+        "id": "4"
+    },
+    {
+        "name": "Jaylin",
+        "lastName": "MacGyver",
+        "country": "Namibia",
+        "city": "Missouri City",
+        "email": "Russ_Braun@gmail.com",
+        "phone": "1-777-247-3449 x306",
+        "id": "5"
+    },
+    {
+        "name": "Santiago",
+        "lastName": "Canedo",
+        "country": "USA",
+        "city": "New York",
+        "email": "new-mail@gmail.com",
+        "phone": "427-528-7246 x97323",
+        "id": "6"
+    },
+    {
+        "name": "Santiago",
+        "lastName": "Canedo",
+        "country": "USA",
+        "city": "New York",
+        "email": "new-mail@gmail.com",
+        "phone": "427-528-7246 x97323",
+        "id": "7"
+    },
+    {
+        "name": "Santiago",
+        "lastName": "Canedo",
+        "country": "USA",
+        "city": "New York",
+        "email": "new-mail@gmail.com",
+        "phone": "427-528-7246 x97323",
+        "id": "8"
+    },
+    {
+        "name": "Santiago",
+        "lastName": "Canedo",
+        "country": "USA",
+        "city": "New York",
+        "email": "new-mail@gmail.com",
+        "phone": "427-528-7246 x97323",
+        "id": "9"
+    },
+    {
+        "name": "Santiago",
+        "lastName": "Canedo",
+        "country": "USA",
+        "city": "New York",
+        "email": "new-mail@gmail.com",
+        "phone": "427-528-7246 x97323",
+        "id": "10"
+    },
+    {
+        "name": "Santiago",
+        "lastName": "Canedo",
+        "country": "USA",
+        "city": "New York",
+        "email": "new-mail@gmail.com",
+        "phone": "427-528-7246 x97323",
+        "id": "11"
+    },
+    {
+        "name": "Santiago",
+        "lastName": "Canedo",
+        "country": "USA",
+        "city": "New York",
+        "email": "new-mail@gmail.com",
+        "phone": "427-528-7246 x97323",
+        "id": "12"
+    },
+    {
+        "name": "Santiago",
+        "lastName": "Canedo",
+        "country": "USA",
+        "city": "New York",
+        "email": "new-mail@gmail.com",
+        "phone": "427-528-7246 x97323",
+        "id": "13"
+    },
+    {
+        "name": "Santiago",
+        "lastName": "Canedo",
+        "country": "USA",
+        "city": "New York",
+        "email": "new-mail@gmail.com",
+        "phone": "427-528-7246 x97323",
+        "id": "14"
+    },
+    {
+        "name": "Santiago",
+        "lastName": "Canedo",
+        "country": "USA",
+        "city": "New York",
+        "email": "new-mail@gmail.com",
+        "phone": "427-528-7246 x97323",
+        "id": "15"
+    },
+    {
+        "name": "Santiago",
+        "lastName": "Canedo",
+        "country": "USA",
+        "city": "New York",
+        "email": "new-mail@gmail.com",
+        "phone": "427-528-7246 x97323",
+        "id": "16"
+    },
+    {
+        "name": "Santiago",
+        "lastName": "Canedo",
+        "country": "USA",
+        "city": "New York",
+        "email": "new-mail@gmail.com",
+        "phone": "427-528-7246 x97323",
+        "id": "17"
+    },
+    {
+        "name": "Santiago",
+        "lastName": "Canedo",
+        "country": "USA",
+        "city": "New York",
+        "email": "new-mail@gmail.com",
+        "phone": "427-528-7246 x97323",
+        "id": "18"
+    },
+    {
+        "name": "Santiago",
+        "lastName": "Canedo",
+        "country": "USA",
+        "city": "New York",
+        "email": "new-mail@gmail.com",
+        "phone": "427-528-7246 x97323",
+        "id": "19"
+    },
+    {
+        "name": "Santiago",
+        "lastName": "Canedo",
+        "country": "USA",
+        "city": "New York",
+        "email": "new-mail@gmail.com",
+        "phone": "427-528-7246 x97323",
+        "id": "20"
+    },
+    {
+        "name": "Santiago",
+        "lastName": "Canedo",
+        "country": "USA",
+        "city": "New York",
+        "email": "new-mail@gmail.com",
+        "phone": "427-528-7246 x97323",
+        "id": "21"
+    },
+    {
+        "name": "Santiago",
+        "lastName": "Canedo",
+        "country": "USA",
+        "city": "New York",
+        "email": "new-mail@gmail.com",
+        "phone": "427-528-7246 x97323",
+        "id": "22"
+    },
+    {
+        "name": "Santiago",
+        "lastName": "Canedo",
+        "country": "USA",
+        "city": "New York",
+        "email": "new-mail@gmail.com",
+        "phone": "427-528-7246 x97323",
+        "id": "23"
+    },
+    {
+        "name": "Santiago",
+        "lastName": "Canedo",
+        "country": "USA",
+        "city": "New York",
+        "email": "new-mail@gmail.com",
+        "phone": "427-528-7246 x97323",
+        "id": "24"
+    },
+    {
+        "name": "Santiago",
+        "lastName": "Canedo",
+        "country": "USA",
+        "city": "New York",
+        "email": "new-mail@gmail.com",
+        "phone": "427-528-7246 x97323",
+        "id": "25"
+    },
+    {
+        "name": "Santiago",
+        "lastName": "Canedo",
+        "country": "USA",
+        "city": "New York",
+        "email": "new-mail@gmail.com",
+        "phone": "427-528-7246 x97323",
+        "id": "26"
+    },
+    {
+        "name": "Santiago",
+        "lastName": "Canedo",
+        "country": "USA",
+        "city": "New York",
+        "email": "new-mail@gmail.com",
+        "phone": "427-528-7246 x97323",
+        "id": "27"
+    },
+    {
+        "name": "John",
+        "lastName": "Doe",
+        "country": "USA",
+        "city": "New York",
+        "email": "john-doe@gmail.com",
+        "phone": "\"1-425-705-0487 x77466",
+        "id": "28"
+    },
+    {
+        "name": "John",
+        "lastName": "Doe",
+        "country": "USA",
+        "city": "New York",
+        "email": "john-doe@gmail.com",
+        "phone": "\"1-425-705-0487 x77466",
+        "id": "29"
+    },
+    {
+        "name": "Taylor",
+        "lastName": "Sift",
+        "country": "USA",
+        "city": "New York",
+        "email": "taylor-swift@gmail.com",
+        "phone": "\"1-425-705-0487 x77466",
+        "id": "30"
+    },
+    {
+        "name": "Taylor",
+        "lastName": "Swift",
+        "country": "USA",
+        "city": "New York",
+        "email": "taylor-swift@gmail.com",
+        "phone": "\"1-425-705-0487 x77466",
+        "id": "31"
+    },
+    {
+        "name": "alejo",
+        "lastName": "lopez",
+        "country": "Colombia",
+        "city": "Cali",
+        "email": "alejo.lopez@email.com",
+        "phone": "1234567890",
+        "id": "39"
+    },
+    {
+        "name": "alejo",
+        "lastName": "lopez",
+        "country": "Colombia",
+        "city": "Cali",
+        "email": "alejo.lopez@email.com",
+        "phone": "1234567890",
+        "id": "40"
+    },
+    {
+        "name": "alejo",
+        "lastName": "lopez",
+        "country": "Colombia",
+        "city": "Cali",
+        "email": "alejo.lopez@email.com",
+        "phone": "1234567890",
+        "id": "41"
+    },
+    {
+        "name": "alejo",
+        "lastName": "lopez",
+        "country": "Colombia",
+        "city": "Cali",
+        "email": "alejo.lopez@email.com",
+        "phone": "1234567890",
+        "id": "45"
+    },
+    {
+        "name": "alejo",
+        "lastName": "lopez",
+        "country": "Colombia",
+        "city": "Cali",
+        "email": "alejo.lopez@email.com",
+        "phone": "1234567890",
+        "id": "46"
+    },
+    {
+        "name": "name",
+        "lastName": "lastName",
+        "country": "country",
+        "city": "city",
+        "email": "email@email.com",
+        "phone": "123-456-7890",
+        "id": "48"
+    },
+    {
+        "name": "name",
+        "lastName": "lastName",
+        "country": "country",
+        "city": "city",
+        "email": "email@email.com",
+        "phone": "123-456-7890",
+        "id": "49"
+    },
+    {
+        "name": "alejo",
+        "lastName": "lopez",
+        "country": "Colombia",
+        "city": "Cali",
+        "email": "alejo.lopez@email.com",
+        "phone": "1234567890",
+        "id": "50"
+    },
+    {
+        "name": "alejo",
+        "lastName": "lopez",
+        "country": "Colombia",
+        "city": "Cali",
+        "email": "alejo.lopez@email.com",
+        "phone": "1234567890",
+        "id": "51"
+    },
+    {
+        "name": "name",
+        "lastName": "lastName",
+        "country": "country",
+        "city": "city",
+        "email": "email@email.com",
+        "phone": "123-456-7890",
+        "id": "52"
+    },
+    {
+        "name": "alejo",
+        "lastName": "lopez",
+        "country": "Colombia",
+        "city": "Cali",
+        "email": "alejo.lopez@email.com",
+        "phone": "1234567890",
+        "id": "53"
+    },
+    {
+        "name": "name",
+        "lastName": "lastName",
+        "country": "country",
+        "city": "city",
+        "email": "email@email.com",
+        "phone": "123-456-7890",
+        "id": "54"
+    },
+    {
+        "name": "name",
+        "lastName": "lastName",
+        "country": "country",
+        "city": "city",
+        "email": "email@email.com",
+        "phone": "123-456-7890",
+        "id": "55"
+    },
+    {
+        "name": "name",
+        "lastName": "lastName",
+        "country": "country",
+        "city": "city",
+        "email": "email@email.com",
+        "phone": "123-456-7890",
+        "id": "56"
+    },
+    {
+        "name": "alejo",
+        "lastName": "lopez",
+        "country": "Colombia",
+        "city": "Cali",
+        "email": "alejo.lopez@email.com",
+        "phone": "1234567890",
+        "id": "57"
+    },
+    {
+        "name": "alejo",
+        "lastName": "lopez",
+        "country": "Colombia",
+        "city": "Cali",
+        "email": "alejo.lopez@email.com",
+        "phone": "1234567890",
+        "id": "58"
+    },
+    {
+        "name": "alejo",
+        "lastName": "lopez",
+        "country": "Colombia",
+        "city": "Cali",
+        "email": "alejo.lopez@email.com",
+        "phone": "1234567890",
+        "id": "59"
+    },
+    {
+        "name": "alejo",
+        "lastName": "lopez",
+        "country": "Colombia",
+        "city": "Cali",
+        "email": "alejo.lopez@email.com",
+        "phone": "1234567890",
+        "id": "60"
+    },
+    {
+        "name": "alejo",
+        "lastName": "lopez",
+        "country": "Colombia",
+        "city": "Cali",
+        "email": "alejo.lopez@email.com",
+        "phone": "1234567890",
+        "id": "61"
+    },
+    {
+        "name": "alejo",
+        "lastName": "lopez",
+        "country": "Colombia",
+        "city": "Cali",
+        "email": "alejo.lopez@email.com",
+        "phone": "1234567890",
+        "id": "62"
+    },
+    {
+        "name": "alejo",
+        "lastName": "lopez",
+        "country": "Colombia",
+        "city": "Cali",
+        "email": "alejo.lopez@email.com",
+        "phone": "1234567890",
+        "id": "63"
+    },
+    {
+        "name": "alejo",
+        "lastName": "lopez",
+        "country": "Colombia",
+        "city": "Cali",
+        "email": "alejo.lopez@email.com",
+        "phone": "1234567890",
+        "id": "64"
+    },
+    {
+        "name": "name",
+        "lastName": "lastName",
+        "country": "country",
+        "city": "city",
+        "email": "email@email.com",
+        "phone": "123-456-7890",
+        "id": "65"
+    },
+    {
+        "name": "alejo",
+        "lastName": "lopez",
+        "country": "Colombia",
+        "city": "Cali",
+        "email": "alejo.lopez@email.com",
+        "phone": "1234567890",
+        "id": "66"
+    },
+    {
+        "name": "alejo",
+        "lastName": "lopez",
+        "country": "Colombia",
+        "city": "Cali",
+        "email": "alejo.lopez@email.com",
+        "phone": "1234567890",
+        "id": "67"
+    },
+    {
+        "name": "alejo",
+        "lastName": "lopez",
+        "country": "Colombia",
+        "city": "Cali",
+        "email": "alejo.lopez@email.com",
+        "phone": "1234567890",
+        "id": "68"
+    },
+    {
+        "name": "alejo",
+        "lastName": "lopez",
+        "country": "Colombia",
+        "city": "Cali",
+        "email": "alejo.lopez@email.com",
+        "phone": "1234567890",
+        "id": "69"
+    },
+    {
+        "name": "alejo",
+        "lastName": "lopez",
+        "country": "Colombia",
+        "city": "Cali",
+        "email": "alejo.lopez@email.com",
+        "phone": "1234567890",
+        "id": "70"
+    },
+    {
+        "name": "alejo",
+        "lastName": "lopez",
+        "country": "Colombia",
+        "city": "Cali",
+        "email": "alejo.lopez@email.com",
+        "phone": "1234567890",
+        "id": "71"
+    },
+    {
+        "name": "alejo",
+        "lastName": "lopez",
+        "country": "Colombia",
+        "city": "Cali",
+        "email": "alejo.lopez@email.com",
+        "phone": "1234567890",
+        "id": "72"
+    },
+    {
+        "name": "alejo",
+        "lastName": "lopez",
+        "country": "Colombia",
+        "city": "Cali",
+        "email": "alejo.lopez@email.com",
+        "phone": "1234567890",
+        "id": "73"
+    },
+    {
+        "name": "Santiago",
+        "lastName": "Canedo",
+        "country": "USA",
+        "city": "New York",
+        "email": "new-mail@gmail.com",
+        "phone": "427-528-7246 x97323",
+        "id": "74"
+    }
+]
+2023-09-25 10:19:45.842 INFO [api.stepDefinitions.ClientSteps:90] - Client list schema validated with object
+2023-09-25 10:19:45.858 INFO [api.stepDefinitions.Hooks:17] - *****************************************************************************************
+2023-09-25 10:19:45.858 INFO [api.stepDefinitions.Hooks:18] - 	Scenario: Create a new client
+2023-09-25 10:19:45.859 INFO [api.stepDefinitions.Hooks:19] - *****************************************************************************************
+2023-09-25 10:19:45.880 INFO [api.stepDefinitions.ClientSteps:52] - Client mapped:Client(name=name, lastName=lastName, country=country, city=city, email=email@email.com, phone=123-456-7890, id=null)
+2023-09-25 10:19:46.705 INFO [api.stepDefinitions.ClientSteps:82] - Client schema validated with object
+2023-09-25 10:19:54.670 INFO [api.stepDefinitions.Hooks:17] - *****************************************************************************************
+2023-09-25 10:19:54.676 INFO [api.stepDefinitions.Hooks:18] - 	Scenario: View all the resources
+2023-09-25 10:19:54.677 INFO [api.stepDefinitions.Hooks:19] - *****************************************************************************************
+2023-09-25 10:19:57.634 INFO [api.stepDefinitions.ClientSteps:32] - [
+    {
+        "name": "NewName",
+        "trademark": "NewTradeMark",
+        "stock": 1000,
+        "price": 99.99,
+        "description": "description",
+        "tags": "NewTag",
+        "is_active": true,
+        "id": "3"
+    },
+    {
+        "name": "Recycled Wooden Bike",
+        "trademark": "MacGyver - Nader",
+        "stock": 98196,
+        "price": 27421.92,
+        "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+        "tags": "email",
+        "is_active": true,
+        "id": "4"
+    },
+    {
+        "name": "Intelligent Steel Fish",
+        "trademark": "Stokes - Yost",
+        "stock": 24835,
+        "price": 11243.02,
+        "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+        "tags": "createdAt",
+        "is_active": true,
+        "id": "5"
+    },
+    {
+        "name": "Electronic Plastic Tuna",
+        "trademark": "Towne, Spinka and Zieme",
+        "stock": 72539,
+        "price": 71089.12,
+        "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+        "tags": "password",
+        "is_active": false,
+        "id": "6"
+    },
+    {
+        "name": "NewName",
+        "trademark": "NewTradeMark",
+        "stock": 1000,
+        "price": 99.99,
+        "description": "description",
+        "tags": "NewTag",
+        "is_active": false,
+        "id": "7"
+    },
+    {
+        "name": "Prueba de oriental",
+        "trademark": "Mor, Zulauf and Schaefer",
+        "stock": 50000,
+        "price": 27000,
+        "description": "I like pants",
+        "tags": "new status",
+        "is_active": true,
+        "id": "8"
+    }
+]
+2023-09-25 10:19:58.793 INFO [api.stepDefinitions.ClientSteps:53] - Resource list schema validated with object
+2023-09-25 10:19:58.804 INFO [api.stepDefinitions.Hooks:17] - *****************************************************************************************
+2023-09-25 10:19:58.812 INFO [api.stepDefinitions.Hooks:18] - 	Scenario: Update the last resource
+2023-09-25 10:19:58.812 INFO [api.stepDefinitions.Hooks:19] - *****************************************************************************************
+2023-09-25 10:19:59.202 INFO [api.stepDefinitions.ClientSteps:32] - [
+    {
+        "name": "NewName",
+        "trademark": "NewTradeMark",
+        "stock": 1000,
+        "price": 99.99,
+        "description": "description",
+        "tags": "NewTag",
+        "is_active": true,
+        "id": "3"
+    },
+    {
+        "name": "Recycled Wooden Bike",
+        "trademark": "MacGyver - Nader",
+        "stock": 98196,
+        "price": 27421.92,
+        "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+        "tags": "email",
+        "is_active": true,
+        "id": "4"
+    },
+    {
+        "name": "Intelligent Steel Fish",
+        "trademark": "Stokes - Yost",
+        "stock": 24835,
+        "price": 11243.02,
+        "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+        "tags": "createdAt",
+        "is_active": true,
+        "id": "5"
+    },
+    {
+        "name": "Electronic Plastic Tuna",
+        "trademark": "Towne, Spinka and Zieme",
+        "stock": 72539,
+        "price": 71089.12,
+        "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+        "tags": "password",
+        "is_active": false,
+        "id": "6"
+    },
+    {
+        "name": "NewName",
+        "trademark": "NewTradeMark",
+        "stock": 1000,
+        "price": 99.99,
+        "description": "description",
+        "tags": "NewTag",
+        "is_active": false,
+        "id": "7"
+    },
+    {
+        "name": "Prueba de oriental",
+        "trademark": "Mor, Zulauf and Schaefer",
+        "stock": 50000,
+        "price": 27000,
+        "description": "I like pants",
+        "tags": "new status",
+        "is_active": true,
+        "id": "8"
+    }
+]
+2023-09-25 10:19:59.636 INFO [api.stepDefinitions.ClientSteps:61] - Latest resource: Resource(name=Prueba de oriental, trademark=Mor, Zulauf and Schaefer, stock=50000, price=27000.0, description=I like pants, tags=new status, isActive=true, id=8)
+2023-09-25 10:19:59.770 INFO [api.stepDefinitions.ClientSteps:66] - Resource(name=NewName, trademark=NewTradeMark, stock=1000, price=99.99, description=description, tags=NewTag, isActive=true, id=null)
+2023-09-25 10:20:00.503 INFO [api.stepDefinitions.ClientSteps:68] - Updated resource: Resource(name=NewName, trademark=NewTradeMark, stock=1000, price=99.99, description=description, tags=NewTag, isActive=true, id=8)
+2023-09-25 10:20:00.512 INFO [api.stepDefinitions.ClientSteps:95] - Expected resource:Resource(name=NewName, trademark=NewTradeMark, stock=1000, price=99.99, description=description, tags=NewTag, isActive=true, id=null)
+2023-09-25 10:20:00.583 INFO [api.stepDefinitions.ClientSteps:81] - Resource schema validated with object

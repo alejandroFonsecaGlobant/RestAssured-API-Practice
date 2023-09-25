@@ -1,0 +1,9 @@
+{
+  "name": "Pepsi light",
+  "trademark": "Pepsico",
+  "stock": "100",
+  "price": "5",
+  "description": "Cola flavored soda",
+  "tags": "drink",
+  "isActive": "True"
+}
